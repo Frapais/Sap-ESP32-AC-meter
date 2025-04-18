@@ -69,7 +69,7 @@ sensor:
 
 ## 📸 Media
 
-![Sap Board](images/sap-board-top.jpg)
+![Sap Board](Photos/image1.png)
 *A close-up of the Sap AC Measurement Expansion Board*
 
 ---
@@ -106,8 +106,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 
 **Sprig Labs – Where Your Ideas Grow.** 🌱
-```
-
----
-
-Let me know if you'd like a version tailored for Tindie documentation or want help writing similar README files for your other boards!
