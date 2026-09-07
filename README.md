@@ -12,6 +12,11 @@ Sap allows you to measure real-time AC current consumption from household or ind
 
 ---
 
+## 🔋 Free ESPHome battery pack
+Building battery-powered ESP32 sensors? Check out this battery-life
+calculator (works with any ESP32 board):
+**→ [Get the free pack](https://sprig-labs.com/esp32-battery-life-calculator/?utm_source=github&utm_medium=readme)**
+
 ## 🧩 Features
 
 - 📏 **Non-invasive AC current sensing**
